@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+  font-size: 2em;
+}
+.navbar-nav{
+  margin-top: 10px;
+}
+.nav-item{
+  border: 1px solid #cba9b5;
+  background-color:gray;
+}
+.nav-link:hover{
+  background-color: rgb(62, 62, 70);
+}
+
+.menu-item-title{
+  padding-top: 10px;
+  text-align: center;
+}
+
+h2{
+  color:rgb(62, 62, 70);
+}
+
+h3.menu-item-title{
+  color: crimson;
+}
+
+.menu-item-tile{
+  padding: 0 10px 0px 10px;
+  margin-bottom: 20px;
+  background-color: bisque;
+  border: 2px black solid ;
+}
+
+
+
+/* Simple Responsive Framework. */
+.row {
+  width: 100%;
+}
+  
